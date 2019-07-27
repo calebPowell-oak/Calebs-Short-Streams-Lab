@@ -7,7 +7,7 @@ public class Calculator {
 
     /**
      * Objective: Rewrite the methods below ( sqaureRoots() and squares() ) using the Streams API.
-     *      Ensure all tests pass in the end.
+     *      ENSURE ALL TESTS STILL PASS AFTER YOUR MODIFICATIONS!!
      *
      * Useful resources include:
      *  How to get a Stream from an array:
